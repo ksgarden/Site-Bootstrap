@@ -1,0 +1,24 @@
+html,body{
+    background-color: black;
+}
+
+main, #grid, #col-sm{
+color: blanchedalmond;
+align-content: center;
+margin-left: 100px;
+}
+
+h1,#tituloSmartwatch{
+    margin-top: 70px ;
+}
+
+.applewatch,img{
+    margin-top: 30px ;
+}
+
+.texto-watch,p{
+    margin-top: 50px ;
+    width: 480px;
+    text-align: justify;
+}
+
